@@ -1,5 +1,6 @@
 # BettingGame_with_Chainlink_VRF
-A Decentralized Betting Game using Chainlink's Randomness.
+1. Created a game where users can place Ether as bet (either selecting low representing 1,2,3 of the dice or high representing 4,5,6 of the dice) and obtain twice the amount of Ether if they win. If the user slection is wrong, Ether which he bet was not returned to the user. 
+2. The decision of winning or losing is taken with the help of random number generated using Chainlink's Verifiable Random Function.
 
 # Project Diagram
 
